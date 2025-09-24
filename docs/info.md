@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-I have one and and i xor
+1 and 2 are the inputs and 1 2 3 are the outputs
 
 ## How to test
 
