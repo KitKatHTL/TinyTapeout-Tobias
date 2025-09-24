@@ -18,7 +18,7 @@ pinout:
   # Inputs
   ui[0]: "input a"
   ui[1]: "input b"
-  ui[2]: ""
+  ui[2]: "input c"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -26,13 +26,13 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "output 1 complexer"
-  uo[1]: "output 2 complexer"
-  uo[2]: "output 3 complexer"
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[0]: "output 1 multiplexer"
+  uo[1]: "output 2 multiplexer"
+  uo[2]: "output 3 multiplexer"
+  uo[3]: "output 4 multiplexer"
+  uo[4]: "output 5 multiplexer"
+  uo[5]: "output 6 multiplexer"
+  uo[6]: "output 7 multiplexer"
   uo[7]: ""
 
   # Bidirectional pins
